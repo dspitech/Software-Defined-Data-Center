@@ -1,4 +1,4 @@
-# TP - 17 : Lab global Datacenter
+# Lab global Datacenter
 
 ## Nom : Lo
 ## Prénom : Pape
